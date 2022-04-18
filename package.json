@@ -1,0 +1,24 @@
+{
+  "name": "@lirx/i18n",
+  "version": "1.0.0",
+  "description": "Description",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lirx-js/i18n"
+  },
+  "keywords": [
+    "rx-js-light",
+    "i18n",
+    "reactive",
+    "date",
+    "currency",
+    "formatter"
+  ],
+  "sideEffects": false,
+  "author": "Valentin Richard",
+  "license": "MIT",
+  "access": "public",
+  "dependencies": {
+    "@lirx/core": "1.0.0"
+  }
+}
